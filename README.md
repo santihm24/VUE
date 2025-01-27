@@ -5,6 +5,7 @@ Esta es una aplicación web desarrollada con **Vue 3** y **Vuetify** para gestio
 ---
 
 ## **Características**
+
 - **Agregar tareas:** Permite escribir el nombre de una tarea y añadirla a la lista.
 - **Editar tareas:** Modifica el título de una tarea existente.
 - **Eliminar tareas:** Borra una tarea de la lista.
@@ -13,12 +14,14 @@ Esta es una aplicación web desarrollada con **Vue 3** y **Vuetify** para gestio
 ---
 
 ## **Requisitos**
+
 - Node.js (versión 14 o superior)
 - NPM o Yarn instalado
 
 ---
 
 ## **Instalación**
+
 Sigue estos pasos para instalar y ejecutar la aplicación:
 
 cd nombre-de-proyecto
@@ -29,4 +32,5 @@ vue add vuetify
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/santihm24/VUE.git
+   ```
